@@ -4,7 +4,7 @@
 Iam using python 2.7 with pyQt4
 Download the pyQt4 from https://www.riverbankcomputing.com/software/pyqt/download
 Note : Download the Binary package
-
+s
 """
 
 import sys
