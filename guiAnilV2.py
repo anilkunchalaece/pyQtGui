@@ -1,10 +1,10 @@
-# -*- coding: utf-8 -*-
+"""
+Author : Kunchala Anil
+Email : anilkunchalaece@gmail.com
+Date : 25 Aug 2016
 
-# Form implementation generated from reading ui file 'button.ui'
-#
-# Created by: PyQt4 UI code generator 4.11.4
-#
-# WARNING! All changes made in this file will be lost!
+UI designed using Qt4 Designer and Added Some Event handling to It
+"""
 
 from PyQt4 import QtCore, QtGui
 
