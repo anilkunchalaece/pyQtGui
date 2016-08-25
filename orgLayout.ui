@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>1211</width>
-    <height>787</height>
+    <width>1054</width>
+    <height>777</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -42,6 +42,9 @@
        <widget class="QLabel" name="label">
         <property name="text">
          <string>This is a question ???</string>
+        </property>
+        <property name="wordWrap">
+         <bool>true</bool>
         </property>
        </widget>
       </item>
@@ -86,7 +89,7 @@
         <property name="maximumSize">
          <size>
           <width>100</width>
-          <height>100</height>
+          <height>70</height>
          </size>
         </property>
         <property name="text">
@@ -99,7 +102,7 @@
         <property name="maximumSize">
          <size>
           <width>100</width>
-          <height>100</height>
+          <height>70</height>
          </size>
         </property>
         <property name="text">
@@ -112,7 +115,7 @@
         <property name="maximumSize">
          <size>
           <width>100</width>
-          <height>100</height>
+          <height>70</height>
          </size>
         </property>
         <property name="text">
@@ -125,7 +128,7 @@
         <property name="maximumSize">
          <size>
           <width>100</width>
-          <height>100</height>
+          <height>70</height>
          </size>
         </property>
         <property name="text">
@@ -138,7 +141,7 @@
         <property name="maximumSize">
          <size>
           <width>100</width>
-          <height>100</height>
+          <height>70</height>
          </size>
         </property>
         <property name="text">
@@ -186,7 +189,7 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>1211</width>
+     <width>1054</width>
      <height>21</height>
     </rect>
    </property>
